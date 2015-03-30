@@ -1,13 +1,13 @@
 #!/bin/bash
 #################################################
-# Aircrack-ng Installer For Raspberry Pi        #
-#												                        #
-# Made By Robert Wiggins					            	#
-# txt3rob@gmail.com							              	#
-#												                        #
-# USE AT YOUR OWN RISK & TEST ONLY ON YOUR OWN  #
-# HARDWARE NOT ANY ONE ELSES				          	#
-#											                        	#
+# Aircrack-ng Installer For Raspberry Pi		#
+#												#
+# Made By Robert Wiggins						#
+# txt3rob@gmail.com								#
+#												#
+# USE AT YOUR OWN RISK & TEST ONLY ON YOUR OWN	#
+# HARDWARE NOT ANY ONE ELSES					#
+#												#
 #################################################
 echo "Starting Updating APT"
 sudo apt-get update
